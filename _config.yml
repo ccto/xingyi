@@ -1,9 +1,5 @@
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-cayman
-
-# Site
-title: 形意拳
-subtitle:
-description:
-author: 凤舞九天
-language:
-timezone: Asia/Shanghai
