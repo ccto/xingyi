@@ -3,3 +3,9 @@ description: 在外为形,在内为意,象形取意.
 show_downloads: false
 google_analytics: UA-178899236-1
 theme: jekyll-theme-cayman
+excerpt_separator:  '<!-- more -->'
+# 分页
+gems: jekyll-paginate
+# 每页有几个项目
+paginate: 5
+paginate_path: "page:num"
